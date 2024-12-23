@@ -1,4 +1,5 @@
-# SIC AI Capstone Project
+# AI-Powered Traffic Forecasting for Reducing Congestion
+
 
 **AI-Powered Traffic Forecasting for Reducing Congestion**
 
