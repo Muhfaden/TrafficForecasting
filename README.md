@@ -11,11 +11,6 @@ This project aims to leverage machine learning techniques to predict traffic con
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Dataset](#dataset)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributors](#contributors)
-8. [License](#license)
 
 ---
 
